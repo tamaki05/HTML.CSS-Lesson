@@ -26,3 +26,17 @@ header {
   height: 650px;
   background-image: url(img/mv.png);
 }
+
+.main-visual-text{
+  font-size: 64px;
+  color: #FAFAFA;
+  position: absolute;
+  left: 50%;
+}
+
+.main-visual-name{
+  font-size: 20px;
+  color: #FAFAFA;
+  position: absolute;
+  left: 50%;
+}
