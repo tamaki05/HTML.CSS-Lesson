@@ -59,8 +59,9 @@ main {
 .portfolio-title{
   font-size: 32px;
   color: #000000;
-  padding: 90px;
-  margin: 0 auto;
+  margin-top: 90px;
+  margin-bottom: 8px;
+  text-align: center;
 }
 
 .portfolio-text{
@@ -102,4 +103,20 @@ main {
 
 .portfolio-box:nth-child(6) {
   background-image: url(img/wabcamp-mother.png);
+}
+
+.feature-title{
+  font-size: 32px;
+  color: #000000;
+  text-align: center;
+  margin-top: 90px;
+  margin-bottom: 8px;
+}
+
+.feature-text{
+  font-size: 16px;
+  color: #000000;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  text-align: center;
 }
