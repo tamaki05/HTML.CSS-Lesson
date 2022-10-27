@@ -52,7 +52,7 @@ main {
 
 .portfolio{
   background-color: #ECEFF1;
-  width: 920px;
+  width: 100%;
   margin: 0 auto;
 }
 
@@ -62,6 +62,12 @@ main {
   margin-top: 90px;
   margin-bottom: 8px;
   text-align: center;
+}
+
+hr {
+  width: 70px;
+  color: #EC715F;
+  size: 3px;
 }
 
 .portfolio-text{
