@@ -30,7 +30,6 @@ header {
 
 .main-visual-text{
   font-size: 64px;
-  height: 650px;
   color: #FAFAFA;
   position: absolute;
   text-align: center;
@@ -125,4 +124,40 @@ hr {
   margin-top: 30px;
   margin-bottom: 30px;
   text-align: center;
+}
+
+.boxes{
+  width: 980px;
+}
+
+.box{
+  width: 320px;
+  height: auto;
+  float: left;
+}
+
+.strength1-title{
+  font-size: 20px;
+  color: #000000;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.strength1-text{
+  font-size: 16px;
+  color: #000000;
+}
+
+.strength2-title{
+  font-size: 20px;
+  color: #000000;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.strength3-title{
+  font-size: 20px;
+  color: #000000;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
