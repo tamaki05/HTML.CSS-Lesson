@@ -200,3 +200,9 @@ hr {
   margin-top: 30px;
   color: #000000;
 }
+
+.my-profile-text{
+  font-size: 16px;
+  color: #000000;
+  margin-top: 5px;
+}
