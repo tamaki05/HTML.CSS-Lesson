@@ -187,3 +187,10 @@ hr {
   margin-bottom: 30px;
   text-align: center;
 }
+
+.profile-picture{
+  background-image: url(img/my-icon.jpg);
+  border-radius: 50%; /*画像を丸くする*/
+  height: 250px;
+  width: 250px;
+}
