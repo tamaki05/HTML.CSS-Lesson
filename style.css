@@ -212,3 +212,16 @@ hr {
   margin-top: 20px;
   color: #000000;
 }
+
+.contact-title{
+  font-size: 32px;
+  color: #000000;
+  margin-top: 90px;
+  text-align: center;
+}
+
+.contact-text{
+  font-size: 16px;
+  color: #000000;
+  text-align: center;
+}
