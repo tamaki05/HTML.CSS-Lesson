@@ -4,7 +4,6 @@ header {
   margin: 0 auto;
   background-color: #EC715F;
   display: flex;
-
 }
 
 .navi-list {
@@ -33,6 +32,7 @@ header {
   color: #FAFAFA;
   position: absolute;
   text-align: center;
+  line-height: 650px;
 }
 
 .main-visual-name{
@@ -40,6 +40,7 @@ header {
   color: #FAFAFA;
   position: absolute;
   left: 50%;
+  line-height: 650px;
 }
 
 main {
