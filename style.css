@@ -129,12 +129,22 @@ hr {
 
 .boxes{
   width: 980px;
+  display: flex;
 }
 
-.box{
+.box1{
   width: 320px;
   height: auto;
-  float: left;
+}
+
+.box2{
+  width: 320px;
+  height: auto;
+}
+
+.box3{
+  width: 320px;
+  height: auto;
 }
 
 .strength1-title{
