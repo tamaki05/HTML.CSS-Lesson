@@ -241,18 +241,32 @@ hr {
   font-size: 20px;
   margin-top: 30px;
   margin-bottom: 5px;
+  text-align: center;
 }
 
 .contact-subtitle2{
   font-size: 20px;
   margin-top: 20px;
   margin-bottom: 5px;
+  text-align: center;
 }
 
 .contact-subtitle3{
   font-size: 20px;
   margin-top: 30px;
   margin-bottom: 5px;
+  text-align: center;
+}
+
+.contact-mail{
+  text-align: center;
+}
+
+.contact-tel{
+  text-align: center;
+}
+.contact-sns{
+  text-align: center;
 }
 
 footer{
